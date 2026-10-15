@@ -11,4 +11,6 @@
 |            trump | 38.58             |
 |             wall | 00.68             |
 
+![Bar chart of phrase frequency](tweets.png)
+
 "Trump" shows up in 38.58% of tweets and "Obama" in 7.73%, while my three picks are all under 1%, I expected "wall" to be the most common of my picks, but "maga" beat it.
